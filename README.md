@@ -14,7 +14,7 @@ El proyecto esta creado en Laravel 8, dejo los pasos para levantar el mismo:
     - Xampp o similar para levantar la base de datos local
 - Base de datos:
 - Crear de manera local una base de datos MySql con los datos: 
-    - nombre de la base de datos: pickit
+    - nombre de la base de datos: bekeu
     - usuario: root
     - sin contraseña
 - Comandos para instalar y levantar el proyecto:
