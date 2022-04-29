@@ -2,7 +2,7 @@
 
 ## API Bekeu
 
-Esto es una pequeña API para la creacion de subscripciones
+Esto es una pequeña API para la creacion de suscripciones
 
 ## Levantar proyecto
 
@@ -31,6 +31,6 @@ El proyecto esta creado en Laravel 8, dejo los pasos para levantar el mismo:
 ## Importar Estados
 ![image](https://user-images.githubusercontent.com/57354733/165997128-e8a6020b-ee35-4003-b163-f07e92943954.png)
 
-## Crear una subscripcion
+## Crear una suscripcion
 ![image](https://user-images.githubusercontent.com/57354733/165997304-5ece0454-4007-4fa9-8781-1e0cd12a2ecc.png)
 
