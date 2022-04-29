@@ -85,6 +85,7 @@
                         icon: 'success',
                         confirmButtonText: 'Ok'
                     })
+                    location.reload();
                 }else{
                     Swal.fire({
                         title: 'Error!',
@@ -93,7 +94,6 @@
                         icon: 'error',
                         confirmButtonText: 'Ok'
                     })
-                    location.reload()
                 }
             })();
         }
